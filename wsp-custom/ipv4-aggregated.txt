@@ -1,0 +1,10 @@
+# Country: All 
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+#
+81.7.13.166
+66.85.146.186
+92.204.175.106
+151.106.58.18
+199.60.103.133
